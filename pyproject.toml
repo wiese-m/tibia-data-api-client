@@ -3,9 +3,11 @@ name = "tibia-data-api-client"
 version = "v3.7.4"
 description = "A python client library for accessing TibiaData API"
 
-authors = ["Marek Wiese"]
+authors = ["Marek Wiese <wiese.marek@gmail.com>"]
+repository = "https://github.com/wiese-m/tibia-data-api-client"
 
 readme = "README.md"
+license = "MIT"
 packages = [
     {include = "tibia_data_api_client"},
 ]

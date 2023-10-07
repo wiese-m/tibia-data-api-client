@@ -1,5 +1,5 @@
 # tibia-data-api-client
-A client library for accessing TibiaData API
+A python client library for accessing TibiaData API
 
 ## Usage
 First, create a client:
